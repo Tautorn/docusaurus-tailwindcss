@@ -1,3 +1,7 @@
+# How to add TailwindCSS to work with Docusaurus 
+
+See below my blog with my details: [link](https://www.tautorn.com.br/blog/docusaurus-tailwind)
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
